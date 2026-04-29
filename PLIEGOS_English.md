@@ -6,6 +6,4 @@ extracted_date: 2026-04-29
 jurisdiction: Cordoba
 ---
 
-# PLIEGOS_English
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
+# DOCX extraction error: No binary data — DOCX extraction unavailable
