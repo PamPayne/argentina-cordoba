@@ -1,11 +1,2 @@
----
-country: Argentina
-document_name: PLIEGOS_English
-source_file: PLIEGOS_English.docx
-extracted_date: 2026-04-30
-jurisdiction: Argentina Cordoba
----
+> **Source:** [PLIEGOS_English.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina Cordoba/1. Legislation/PLIEGOS_English.docx)
 
-# PLIEGOS_English
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
