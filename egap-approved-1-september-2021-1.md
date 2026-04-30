@@ -1,12 +1,13 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina Cordoba/1. Legislation/eGAP_Approved_1_September_2021 (1).pdf
 country: Argentina
-document_name: "eCOGRA Generally Accepted Practices (eGAP) Approved 1 September 2021"
-source_file: "eGAP_Approved_1_September_2021 (1).pdf"
-source_url: "https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina Cordoba/1. Legislation/eGAP_Approved_1_September_2021 (1).pdf"
-extracted_date: "2026-04-30"
-jurisdiction: "Argentina Cordoba"
-description: "This document sets out the eCOGRA Generally Accepted Practices (eGAP) requirements, objectives, methodologies, and minimum controls for responsible gambling, player protection, AML/CFT, privacy, fairness, security, and live dealer studio operations."
+document_name: eCOGRA Generally Accepted Practices (eGAP) Approved 1 September 2021
+source_file: eGAP_Approved_1_September_2021 (1).pdf
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Argentina%20Cordoba/1.%20Legislation/eGAP_Approved_1_September_2021%20(1).pdf
+extracted_date: 2026-04-30
+jurisdiction: Argentina Cordoba
+description: This document sets out the eCOGRA Generally Accepted Practices (eGAP) requirements, objectives, methodologies, and minimum controls for operators and software providers relating to responsible gambling, player protection, AML/CFT, privacy, security, fairness, and live dealer operations.
+regulatory_body: eCOGRA
 ---
 
 # ECOGRA GENERALLY ACCEPTED PRACTICES (EGAP) APPROVED 1 SEPTEMBER 2021
@@ -38,11 +39,11 @@ The risk indicators assigned to the eGAP Requirements are subjective and are pro
 
 The eGAP Requirements are applicable to different products, within each eGAP area, and indicated as follows:
 
-- All – All products
-- C – Casino
-- P – Poker
-- S – Sportsbook
-- B – Bingo
+All – All products  
+C – Casino  
+P – Poker  
+S – Sportsbook  
+B – Bingo
 
 Notwithstanding the products and services provided by software providers have similarities, it is important to note that a clear distinction can be made between software providers through the service agreements they have with operators. For example, the backup responsibilities may be assumed by one software provider, while not by another. Therefore, software providers, service providers and operators should only apply the indications in this document as a guideline to identify implementation areas for which they are responsible.
 
@@ -130,47 +131,41 @@ eCOGRA shall ensure that seal holders meet these requirements by reviewing the s
 
 **1.01** The homepage of the operator’s website shall contain a clear link to a Player Protection and Responsible Gambling page, which shall contain at a minimum:
 
-##### 1.01.1
-Detail of the operator’s responsible gambling policy and their commitment thereto.  
-Risk Indicator: Low  
-Products: All  
-SP:  
-O: α
+- **1.01.1** Detail of the operator’s responsible gambling policy and their commitment thereto.  
+  Risk Indicator: Low  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.01.2
-A warning statement that gambling could be harmful if not controlled and kept in moderation.  
-Risk Indicator: Low  
-Products: All  
-SP:  
-O: α
+- **1.01.2** A warning statement that gambling could be harmful if not controlled and kept in moderation.  
+  Risk Indicator: Low  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.01.3
-Advice on responsible gambling and a link to sources of help on problem gambling, including helpline numbers.  
-Risk Indicator: Low  
-Products: All  
-SP:  
-O: α
+- **1.01.3** Advice on responsible gambling and a link to sources of help on problem gambling, including helpline numbers.  
+  Risk Indicator: Low  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.01.4
-An accepted and simple self-assessment process to determine risk potential.  
-Risk Indicator: Low  
-Products: All  
-SP:  
-O: α
+- **1.01.4** An accepted and simple self-assessment process to determine risk potential.  
+  Risk Indicator: Low  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.01.5
-The player protection measures offered by the operator (including, amongst others, deposit limits, cooling-off and self-exclusion) and instructions on how to access these measures.  
-Risk Indicator: Low  
-Products: All  
-SP:  
-O: α
+- **1.01.5** The player protection measures offered by the operator (including, amongst others, deposit limits, cooling-off and self-exclusion) and instructions on how to access these measures.  
+  Risk Indicator: Low  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.01.6
-No display of promotional material and no misleading messages of an operator’s support of responsible gambling.  
-Risk Indicator: Low  
-Products: All  
-SP:  
-O: α
+- **1.01.6** No display of promotional material and no misleading messages of an operator’s support of responsible gambling.  
+  Risk Indicator: Low  
+  Products: All  
+  SP:  
+  O: α
 
 **1.02** The download gambling software shall contain a link to the Responsible Gambling page.  
 Risk Indicator: Low  
@@ -248,47 +243,41 @@ O: α
 
 **1.14** The Responsible Gambling page shall provide players with an option to ‘self-exclude’ in accordance with the following:
 
-##### 1.14.1
-The account shall be locked and any funds in the account paid out, subject to appropriate and necessary checks and verifications.  
-Risk Indicator: High  
-Products: All  
-SP:  
-O: α
+- **1.14.1** The account shall be locked and any funds in the account paid out, subject to appropriate and necessary checks and verifications.  
+  Risk Indicator: High  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.14.2
-Best endeavours shall be made to ensure that the player does not receive any marketing material during the exclusion period.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **1.14.2** Best endeavours shall be made to ensure that the player does not receive any marketing material during the exclusion period.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.14.3
-Self-exclusion due to a gambling addiction shall be for a minimum period of 6 months.  
-Risk Indicator: High  
-Products: All  
-SP:  
-O: α
+- **1.14.3** Self-exclusion due to a gambling addiction shall be for a minimum period of 6 months.  
+  Risk Indicator: High  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.14.4
-A third party making an application for a player’s exclusion shall be properly identified. Based on the circumstances, the appropriate manager shall contact the player for whom the exclusion is being sought and take appropriate action.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **1.14.4** A third party making an application for a player’s exclusion shall be properly identified. Based on the circumstances, the appropriate manager shall contact the player for whom the exclusion is being sought and take appropriate action.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.14.5
-Self-exclusion requests shall apply to all brands and products offered by the operator.  
-Risk Indicator: High  
-Products: All  
-SP:  
-O: α
+- **1.14.5** Self-exclusion requests shall apply to all brands and products offered by the operator.  
+  Risk Indicator: High  
+  Products: All  
+  SP:  
+  O: α
 
-##### 1.14.6
-Players with a self-excluded status shall not be able to deposit or wager with the operator.  
-Risk Indicator: High  
-Products: All  
-SP:  
-O: α
+- **1.14.6** Players with a self-excluded status shall not be able to deposit or wager with the operator.  
+  Risk Indicator: High  
+  Products: All  
+  SP:  
+  O: α
 
 #### Responsible Gambling Practices
 
@@ -834,66 +823,50 @@ O: α
 
 **6.05** The core RNG design and implementation shall be evaluated by an accredited testing agency prior to live operation, or following any changes to the RNG source code, including:
 
-##### 6.05.1
-RNG documentation review.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.1** RNG documentation review.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.05.2
-RNG source code review.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.2** RNG source code review.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.05.3
-RNG mathematical analysis.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.3** RNG mathematical analysis.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.05.4
-RNG range determination.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.4** RNG range determination.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.05.5
-RNG period assessment.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.5** RNG period assessment.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.05.6
-Seeding/re-seeding investigation.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.6** Seeding/re-seeding investigation.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.05.7
-Background cycling investigation.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.05.7** Background cycling investigation.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
 **6.06** The RNG output shall pass the DIEHARD test suite (Marsaglia) or a similar test suite of the same level. The tests shall be conducted on a data set, which a suitably accredited testing agency considers to be sufficient for securing statistical valid results.  
 Risk Indicator: High  
 Products: C P B  
-SP: α  
-O:
+SP: α
 
 **6.07** All major changes shall be individually tested, and a system-wide regression test shall be completed at least annually.  
 Risk Indicator: Medium  
 Products: C P B  
-SP: α  
-O:
+SP: α
 
 **6.08** Pay-out percentage reviews shall be conducted on a regular basis to verify the final result actual return to the player against the theoretical statistical return percentage.  
 Risk Indicator: Medium  
@@ -910,24 +883,19 @@ O: α
 **6.10** The theoretical statistical return percentage for a particular game type shall be no less than that of the equivalent game in free play mode.  
 Risk Indicator: Medium  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **6.11** The final result obtained through the use of the RNG in games shall be proven to be:
 
-##### 6.11.1
-Statistically independent.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.11.1** Statistically independent.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
-##### 6.11.2
-Uniformly distributed over their range.  
-Risk Indicator: High  
-Products: C P B  
-SP: α  
-O:
+- **6.11.2** Uniformly distributed over their range.  
+  Risk Indicator: High  
+  Products: C P B  
+  SP: α
 
 #### Game Rules
 
@@ -1025,33 +993,29 @@ Products: All
 SP:  
 O: α
 
-##### 7.01.1
-Claim that gambling is free of the risks of financial losses.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.01.1** Claim that gambling is free of the risks of financial losses.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.01.2
-Promote behaviour that objectively leads to financial harm.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.01.2** Promote behaviour that objectively leads to financial harm.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.01.3
-Be false or misleading or provide unrealistic information about the probability of gambling winnings or returns.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.01.3** Be false or misleading or provide unrealistic information about the probability of gambling winnings or returns.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.01.4
-Suggest that skill can influence the outcome of a game of pure chance.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.01.4** Suggest that skill can influence the outcome of a game of pure chance.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
 **7.02** Any winnings announcements that publicise player details shall require consent of the player. If a player does not provide consent, this decision shall be respected by the operator and shall not have any negative implications for the player.  
 Risk Indicator: Medium  
@@ -1077,61 +1041,53 @@ Products: All
 SP:  
 O: α
 
-##### 7.04.1
-Encourage or condone criminal or anti-social behaviour.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.1** Encourage or condone criminal or anti-social behaviour.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.2
-Suggest gambling can be a resolution to personal, professional or educational problems.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.2** Suggest gambling can be a resolution to personal, professional or educational problems.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.3
-Claim that gambling can lead to social success or enhancement of personal qualities, such as improving a consumer’s self-esteem.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.3** Claim that gambling can lead to social success or enhancement of personal qualities, such as improving a consumer’s self-esteem.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.4
-Promote gambling as an alternative to employment, as a financial investment or as a solution to financial problems.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.4** Promote gambling as an alternative to employment, as a financial investment or as a solution to financial problems.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.5
-Imply that gambling is more important than family, friends, professional or educational obligations.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.5** Imply that gambling is more important than family, friends, professional or educational obligations.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.6
-Imply that gambling could lead to sexual success or enhanced attractiveness.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.6** Imply that gambling could lead to sexual success or enhanced attractiveness.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.7
-Exploit cultural beliefs regarding the role of gambling or luck.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.7** Exploit cultural beliefs regarding the role of gambling or luck.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
-##### 7.04.8
-Contain pressuring or urgent messages such as "you have nothing to lose", “your next win is around the corner”, or “hurry up and bet now”.  
-Risk Indicator: Medium  
-Products: All  
-SP:  
-O: α
+- **7.04.8** Contain pressuring or urgent messages such as "you have nothing to lose", “your next win is around the corner”, or “hurry up and bet now”.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP:  
+  O: α
 
 **7.05** The eCOGRA seal shall only be used by the relevant organisation if specifically authorised.  
 Risk Indicator: Low  
@@ -1499,33 +1455,29 @@ Products: All
 SP: α  
 O: α
 
-##### 9.40.1
-Ensure the game is terminated.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.40.1** Ensure the game is terminated.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.40.2
-Refund the amount of the wager.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.40.2** Refund the amount of the wager.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.40.3
-Inform the relevant regulatory authority of operator system failure.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.40.3** Inform the relevant regulatory authority of operator system failure.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.40.4
-Refrain from offering affected game/s until the system issue is resolved.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.40.4** Refrain from offering affected game/s until the system issue is resolved.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
 **9.41** All transactions involving player funds shall be recoverable by the system in the event of a failure or malfunction.  
 Risk Indicator: Medium  
@@ -1538,14 +1490,12 @@ O: α
 **9.42** A development methodology for the development and maintenance of secure systems, software and applications shall be defined, documented, and implemented.  
 Risk Indicator: Medium  
 Products: All  
-SP: α  
-O:
+SP: α
 
 **9.43** All documentation relating to system, software and application development shall be available and retained for the duration of its lifecycle.  
 Risk Indicator: Medium  
 Products: All  
-SP: α  
-O:
+SP: α
 
 **9.44** Reports shall be generated for all changes made to game parameters.  
 Risk Indicator: Medium  
@@ -1562,57 +1512,46 @@ O: α
 **9.46** Change control procedures shall be implemented in line with the organisational change management policy and shall cater for the following:  
 Risk Indicator: Medium  
 Products: All  
-SP: α  
-O:
+SP: α
 
-##### 9.46.1
-Approval procedures for changes to software.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.46.1** Approval procedures for changes to software.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.46.2
-A policy addressing emergency change procedures.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.46.2** A policy addressing emergency change procedures.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.46.3
-Procedures for testing and migration of changes.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.46.3** Procedures for testing and migration of changes.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.46.4
-Segregation of duties between the developers, quality assurance, deployment, and end-users.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O: α
+- **9.46.4** Segregation of duties between the developers, quality assurance, deployment, and end-users.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α  
+  O: α
 
-##### 9.46.5
-Procedures to ensure that technical and user documentation are updated as a result of a change.  
-Risk Indicator: Low  
-Products: All  
-SP: α  
-O:
+- **9.46.5** Procedures to ensure that technical and user documentation are updated as a result of a change.  
+  Risk Indicator: Low  
+  Products: All  
+  SP: α
 
-##### 9.46.6
-Procedures to ensure that security control requirements are specified for new systems or enhancements to existing systems.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O:
+- **9.46.6** Procedures to ensure that security control requirements are specified for new systems or enhancements to existing systems.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α
 
-##### 9.46.7
-Procedures to ensure that sensitive player data used for testing purposes is protected against unauthorised disclosure.  
-Risk Indicator: Medium  
-Products: All  
-SP: α  
-O:
+- **9.46.7** Procedures to ensure that sensitive player data used for testing purposes is protected against unauthorised disclosure.  
+  Risk Indicator: Medium  
+  Products: All  
+  SP: α
 
 **9.47** The development and test environments shall be separated physically and logically from the live operational systems.  
 Risk Indicator: Medium  
@@ -1637,153 +1576,116 @@ eCOGRA shall ensure that seal holders meet these requirements by reviewing the s
 **10.01** Dealers, croupiers, and pit bosses shall all complete extensive training programs. Controls shall be in place for the appointment and dismissal of staff.  
 Risk Indicator: Low  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.02** Scanners and card readers shall be present to ensure that results are correctly entered.  
 Risk Indicator: Low  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.03** All live dealer and croupier activities shall be supervised by pit bosses and made visually available to the players.  
 Risk Indicator: Medium  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.04** All video feeds and associated studio-player communication shall be recorded. Game videos and communication logs shall be immediately retrievable from the archives.  
 Risk Indicator: Low  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.05** Game videos and communication logs shall be retained in archives for a minimum period of 90 days.  
 Risk Indicator: Low  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.06** All cards and game results shall be clearly visible, together with a separate icon depicting a matching outcome on the player’s screen.  
 Risk Indicator: Low  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.07** Internal statistical results reviews shall be regularly conducted to monitor game performance and pay-out percentages, and to detect irregularities and variances.  
 Risk Indicator: High  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.08** Final game results shall be collated into statistics which can be analysed for trends relating to games, staff and/or locations in the gambling area (e.g. blackjack table number 2).  
 Risk Indicator: Medium  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.09** Policies and procedures for conducting results reviews and investigation procedures to be undertaken, in the event that material variances are identified, shall be documented.  
 Risk Indicator: Low  
 Products: C  
-SP: α  
-O:
+SP: α
 
 **10.10** Studio rules and controls shall be implemented and documented, including:
 
-##### 10.10.1
-Studio access.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.1** Studio access.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.2
-Collusion, cheating and other dealer and croupier specific controls, including vocalising and the use of hand signals.  
-Risk Indicator: Medium  
-Products: C  
-SP: α  
-O:
+- **10.10.2** Collusion, cheating and other dealer and croupier specific controls, including vocalising and the use of hand signals.  
+  Risk Indicator: Medium  
+  Products: C  
+  SP: α
 
-##### 10.10.3
-Dealer and croupier shifts, rotations, and break procedures.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.3** Dealer and croupier shifts, rotations, and break procedures.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.4
-Segregation of responsibilities in preparing for games prior to play, during play and after play.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.4** Segregation of responsibilities in preparing for games prior to play, during play and after play.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.5
-Shuffling, presentation, card pickup and responding to dropped cards.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.5** Shuffling, presentation, card pickup and responding to dropped cards.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.6
-Requesting deck replacements.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.6** Requesting deck replacements.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.7
-Assistance to players.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.7** Assistance to players.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.8
-Resolution procedures for irregularities and errors.  
-Risk Indicator: Medium  
-Products: C  
-SP: α  
-O:
+- **10.10.8** Resolution procedures for irregularities and errors.  
+  Risk Indicator: Medium  
+  Products: C  
+  SP: α
 
-##### 10.10.9
-Equipment cleaning, maintenance, and testing.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.9** Equipment cleaning, maintenance, and testing.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.10
-Tamper-proof card shoes and similar devices.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.10** Tamper-proof card shoes and similar devices.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.11
-Destruction of worn out equipment.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.11** Destruction of worn out equipment.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.12
-Secure inventory storage when not in use.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.12** Secure inventory storage when not in use.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.13
-Inventory tracking and audits of stored and live decks.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.13** Inventory tracking and audits of stored and live decks.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
 
-##### 10.10.14
-Record retention.  
-Risk Indicator: Low  
-Products: C  
-SP: α  
-O:
+- **10.10.14** Record retention.  
+  Risk Indicator: Low  
+  Products: C  
+  SP: α
