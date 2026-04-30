@@ -6,4 +6,6 @@ extracted_date: 2026-04-30
 jurisdiction: Argentina Cordoba
 ---
 
-# DOCX extraction error: No binary data — DOCX extraction unavailable
+# REGLAMENTO-TECNICO-Y-DE-JUEGOS-Y-APUESTAS-DEL-JUEGO-EN-LINEA_English
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
