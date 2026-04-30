@@ -1,11 +1,2 @@
----
-country: Argentina
-document_name: PLIEGO-DE-CONDICIONES-PARTICULARES_English
-source_file: PLIEGO-DE-CONDICIONES-PARTICULARES_English.docx
-extracted_date: 2026-04-30
-jurisdiction: Cordoba
----
+> **Source:** [PLIEGO-DE-CONDICIONES-PARTICULARES_English.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina Cordoba/1. Legislation/PLIEGO-DE-CONDICIONES-PARTICULARES_English.docx)
 
-# PLIEGO-DE-CONDICIONES-PARTICULARES_English
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
