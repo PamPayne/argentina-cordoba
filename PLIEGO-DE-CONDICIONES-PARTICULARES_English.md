@@ -6,6 +6,6 @@ extracted_date: 2026-04-30
 jurisdiction: Argentina Cordoba
 ---
 
-# DOCX extraction error
+# PLIEGO-DE-CONDICIONES-PARTICULARES_English
 
-No binary data — DOCX extraction unavailable
+DOCX extraction error: No binary data — DOCX extraction unavailable
