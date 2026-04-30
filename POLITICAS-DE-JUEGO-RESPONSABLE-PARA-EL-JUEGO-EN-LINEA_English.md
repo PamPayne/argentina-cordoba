@@ -6,6 +6,4 @@ extracted_date: 2026-04-30
 jurisdiction: Argentina Cordoba
 ---
 
-# POLITICAS-DE-JUEGO-RESPONSABLE-PARA-EL-JUEGO-EN-LINEA_English
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
+# DOCX extraction error: No binary data — DOCX extraction unavailable
